@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35" started-at="2021-11-20T21:59:24Z" finished-at="2021-11-20T21:59:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35" started-at="2021-11-20T21:59:24Z" finished-at="2021-11-20T21:59:24Z">
+      <class name="project.Car_loan">
+        <test-method status="PASS" signature="car_loan()[pri:0, instance:project.Car_loan@6a01e23]" name="car_loan" duration-ms="16" started-at="2021-11-20T16:59:24Z" finished-at="2021-11-20T16:59:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- car_loan -->
+      </class> <!-- project.Car_loan -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
